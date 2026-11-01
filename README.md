@@ -18,6 +18,19 @@ I analyze business and marketing data to identify trends, find bottlenecks, and 
 
 ## 📊 Projects
 
+## 📊 Projects
+
+### Retail Sales Data Pipeline
+End-to-end ETL/ELT pipeline for retail sales analytics using Greenplum, Apache Airflow, ClickHouse and Apache Superset.
+
+- Data loading and transformation using SQL
+- Pipeline orchestration with Apache Airflow
+- Incremental loading and safe reruns
+- Data quality validation
+- Analytical data mart and dashboard
+
+**[View project](https://github.com/ubalievb/retail-sales-data-pipeline)**
+
 ### 482 Installs → 0 Conversions
 
 Power BI analysis of a Google Ads campaign that generated 482 installs but almost no target conversions.
