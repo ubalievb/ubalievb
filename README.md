@@ -6,12 +6,13 @@ I analyze business and marketing data to identify trends, find bottlenecks, and 
 
 ---
 
-## 🛠️ Skills
+## 🛠 Skills
 
-- **Power BI** : dashboards, DAX, data modeling, data visualization
-- **SQL** : data extraction, filtering, aggregation, joins and analysis
-- **Python** : pandas, numpy, matplotlib, seaborn, basic machine learning
-- **Analytics** : funnel analysis, marketing analytics, campaign performance analysis
+- **SQL:** joins, aggregations, CTE, query optimization
+- **Databases:** Greenplum, PostgreSQL, ClickHouse
+- **Data Engineering:** ETL/ELT, Apache Airflow, data pipelines, data validation
+- **Python:** pandas, numpy, matplotlib, basic machine learning
+- **BI & Visualization:** Power BI, DAX, Apache Superset
 
 ---
 
