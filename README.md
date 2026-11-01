@@ -1,68 +1,69 @@
-# Hi, I'm Bektur 👋
+# Привет! Я Бектур 👋
 
-### Data Engineer | Data Analyst | SQL | Python | Greenplum | Airflow | Clickhouse
+### Data Engineer | Data Analyst | SQL | Python | Greenplum | Airflow | ClickHouse
 
-I analyze business and marketing data to identify trends, find bottlenecks, and support data-driven decisions.
+Развиваюсь в направлении Data Engineering. Работаю с SQL и Python, изучаю построение ETL/ELT-пайплайнов, обработку данных и создание аналитических витрин.
+Имею опыт в аналитике и маркетинговых данных, построения отчётов и поиска причин отклонений в показателях.
 
 ---
 
 ## 🛠 Skills
 
-- **SQL:** joins, aggregations, CTE, query optimization
-- **Databases:** Greenplum, PostgreSQL, ClickHouse
-- **Data Engineering:** ETL/ELT, Apache Airflow, data pipelines, data validation
-- **Python:** pandas, numpy, matplotlib, basic machine learning
-- **BI & Visualization:** Power BI, DAX, Apache Superset
+- SQL: JOIN, CTE, оконные функции, агрегации, оптимизация запросов.
+- Базы данных: Greenplum, PostgreSQL, ClickHouse.
+- Data Engineering: ETL/ELT, Apache Airflow, построение пайплайнов, проверка качества данных.
+- Python: Pandas, NumPy, Matplotlib, основы машинного обучения.
+- BI и визуализация: Power BI, DAX, Apache Superset.
 
 ---
 
-## 📊 Projects
+## 📊 Проекты
 
-## 📊 Projects
+### 1. Retail Sales Data Pipeline
+ETL/ELT-пайплайн для загрузки, обработки и аналитики данных о розничных продажах.
 
-### Retail Sales Data Pipeline
-End-to-end ETL/ELT pipeline for retail sales analytics using Greenplum, Apache Airflow, ClickHouse and Apache Superset.
+Технологии: Greenplum, SQL, Apache Airflow, ClickHouse, Apache Superset.
+- Загрузка и обработка данных с помощью SQL.
+- Оркестрация задач загрузки в Apache Airflow.
+- Реализация полной и инкрементальной загрузки данных.
+- Обеспечение безопасного повторного запуска пайплайна.
+- Проверка качества данных (Data Validation).
+- Построение аналитической витрины и дашборда.
 
-- Data loading and transformation using SQL
-- Pipeline orchestration with Apache Airflow
-- Incremental loading and safe reruns
-- Data quality validation
-- Analytical data mart and dashboard
+**[Посмотреть проект](https://github.com/ubalievb/retail-sales-data-pipeline)**
 
-**[View project](https://github.com/ubalievb/retail-sales-data-pipeline)**
+### 2. 482 установки → 0 конверсий
 
-### 482 Installs → 0 Conversions
+Анализ рекламной кампании Google Ads в Power BI. Исследование причин, по которым 482 установки приложения практически не привели к целевым действиям.
 
-Power BI analysis of a Google Ads campaign that generated 482 installs but almost no target conversions.
+[Посмотреть проект](https://github.com/ubalievb/482-installations-no-conversions)
 
-[View project](https://github.com/ubalievb/482-installations-no-conversions)
+### 3. Анализ воронки кредитной заявки
 
-### Loan Funnel Analysis
+Анализ поведения пользователей мобильного приложения на разных этапах воронки - от первого открытия приложения до подачи кредитной заявки.
 
-Power BI analysis of user behavior in a mobile app loan funnel, from first app open to loan application.
+[Посмотреть проект](https://github.com/ubalievb/loan-funnel-analysis)
 
-[View project](https://github.com/ubalievb/loan-funnel-analysis)
+### 4. Анализ эффективности Google Ads
 
-### Google Ads Campaign Performance
+Анализ эффективности рекламных кампаний Google Ads до и после обучения алгоритма.
 
-Power BI analysis of Google Ads campaign performance before and after algorithm learning.
+[Посмотреть проект](https://github.com/ubalievb/google-ads-campaign-performance)
 
-[View project](https://github.com/ubalievb/google-ads-campaign-performance)
+### 5. Анализ трендов YouTube
 
-### YouTube Trend Analysis
+Анализ популярных видео, категорий и тенденций YouTube в разных странах с использованием SQL и Python.
 
-Analytical project using SQL and Python to study popular YouTube videos, categories and trends across different countries.
+[Посмотреть проект](https://github.com/ubalievb/youtube-trend-analysis)
 
-[View project](https://github.com/ubalievb/youtube-trend-analysis)
+### 6. Прогнозирование оттока студентов онлайн-курса
 
-### Online Course Churn Prediction
+Проект машинного обучения по прогнозированию оттока студентов на основе их ранней активности на образовательной платформе.
 
-Machine learning project focused on predicting student churn based on early activity on an online learning platform.
-
-[View project](https://github.com/ubalievb/online-course-churn-prediction)
+[Посмотреть проект](https://github.com/ubalievb/online-course-churn-prediction)
 
 ---
 
-## 🎯 Currently
+## 🎯 Текущие цели
 
-Building my portfolio in Data Engineering, focusing on SQL, Greenplum, Apache Airflow, ClickHouse and data pipeline development.
+Развиваюсь в Data Engineering. Углубляю знания SQL, Greenplum, Apache Airflow и ClickHouse. Практикую построение ETL/ELT-пайплайнов, работу с большими объёмами данных и автоматизацию процессов обработки данных.
