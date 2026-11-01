@@ -1,6 +1,6 @@
 # Hi, I'm Bektur 👋
 
-### Data Analyst | Power BI | SQL | Python
+### Data Engineer | Data Analyst | SQL | Python | Greenplum | Airflow | Clickhouse
 
 I analyze business and marketing data to identify trends, find bottlenecks, and support data-driven decisions.
 
