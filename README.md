@@ -65,4 +65,4 @@ Machine learning project focused on predicting student churn based on early acti
 
 ## 🎯 Currently
 
-I'm building my portfolio in **Data Analytics** with a focus on **Power BI, SQL and Python**.
+Building my portfolio in Data Engineering, focusing on SQL, Greenplum, Apache Airflow, ClickHouse and data pipeline development.
