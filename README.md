@@ -1,6 +1,6 @@
 # Привет! Я Бектур 👋
 
-### Data Engineer | Data Analyst | SQL | Python | Greenplum | Airflow | ClickHouse
+### Junior Data Engineer | Data Analyst | SQL | Python | Greenplum | Airflow | ClickHouse
 
 Развиваюсь в направлении Data Engineering. Работаю с SQL и Python, изучаю построение ETL/ELT-пайплайнов, обработку данных и создание аналитических витрин.
 Имею опыт анализа бизнес и маркетинговых данных, построения отчётов и выявления причин отклонений в показателях.
